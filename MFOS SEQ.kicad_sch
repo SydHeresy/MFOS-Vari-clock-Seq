@@ -1,0 +1,241 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "e3d578e7-94a6-4d8d-b835-d46e82e426fe")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 77.47 77.47)
+		(size 49.53 27.94)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0e3c5f38-2207-47b5-a3ed-deb725cb7dfd")
+		(property "Sheetname" "VARILOCK_2"
+			(at 77.47 76.7584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "VARILOCK_2.kicad_sch"
+			(at 77.47 105.9946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "MFOS SEQ"
+				(path "/e3d578e7-94a6-4d8d-b835-d46e82e426fe"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 19.05 77.47)
+		(size 52.07 27.94)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "12a10d90-ae80-4d44-a171-d2089bbba403")
+		(property "Sheetname" "VARILOCK_1"
+			(at 19.05 76.7584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "VARILOCK_1.kicad_sch"
+			(at 19.05 105.9946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "MFOS SEQ"
+				(path "/e3d578e7-94a6-4d8d-b835-d46e82e426fe"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 130.81 17.78)
+		(size 48.26 29.21)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1735c2ec-c488-461e-add5-959e339849fb")
+		(property "Sheetname" "16AnalogDigital_3"
+			(at 130.81 17.0684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "16AnalogDigital_3.kicad_sch"
+			(at 130.81 47.5746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "MFOS SEQ"
+				(path "/e3d578e7-94a6-4d8d-b835-d46e82e426fe"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 132.08 77.47)
+		(size 48.26 27.94)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b01944ef-0fb3-46b4-8735-64330afa4a5e")
+		(property "Sheetname" "VARILOCK_3"
+			(at 132.08 76.7584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "VARILOCK_3.kicad_sch"
+			(at 132.08 105.9946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "MFOS SEQ"
+				(path "/e3d578e7-94a6-4d8d-b835-d46e82e426fe"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 77.47 16.51)
+		(size 46.99 29.21)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d76f2af1-db11-4b34-a05a-4801ba820d39")
+		(property "Sheetname" "16AnalogDigital_2"
+			(at 77.47 15.7984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "16AnalogDigital_2.kicad_sch"
+			(at 77.47 46.3046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "MFOS SEQ"
+				(path "/e3d578e7-94a6-4d8d-b835-d46e82e426fe"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 19.05 16.51)
+		(size 50.8 30.48)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ed2d6ffc-1031-4768-be85-94c1746075c3")
+		(property "Sheetname" "16AnalogDigital_1"
+			(at 19.05 15.7984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "16AnalogDigital_1.kicad_sch"
+			(at 19.05 47.5746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "MFOS SEQ"
+				(path "/e3d578e7-94a6-4d8d-b835-d46e82e426fe"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
